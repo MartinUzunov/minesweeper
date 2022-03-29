@@ -1,4 +1,4 @@
-# Minesweeper_game
+# Minesweeper game
 The Windows XP version of the Minesweeper implemnted with PyGame.
 <br></br>
 ![Screenshot](Screenshot.png)
